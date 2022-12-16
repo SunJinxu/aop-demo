@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sunjinxu</groupId>
-	<artifactId>aopdemo</artifactId>
+	<artifactId>aop-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aopdemo</name>
+	<name>aop-demo</name>
 	<description>Demo project for Spring Boot AOP</description>
 	<properties>
 		<java.version>8</java.version>
